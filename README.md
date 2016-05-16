@@ -12,6 +12,6 @@ https://github.com/facebook/react
 
 ### Assets
 ```php
-//Base Assets
 xj\react\ReactAsset::register($this);
+xj\react\ReactDomAsset::register($this);
 ```
