@@ -11,7 +11,6 @@ class ReactAsset extends AssetBundle
 {
 
     public $sourcePath = '@bower/react';
-    public $basePath = '@webroot/assets';
     public $js = ['react.js'];
 
 }
